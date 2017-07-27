@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Gruppo');
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai');
+.image-background {
+    background: url('../images/background-blur.jpg');
+}
+
+h3, h2, h1 {
+    font-family: 'Gruppo', cursive;
+}
+
+p, .skilltitle, #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li span.importo, #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul span.importo {
+    font-family: 'Hind Madurai', sans-serif;
+}
